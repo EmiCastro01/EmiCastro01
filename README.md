@@ -12,6 +12,6 @@ I'm always eager to learn something new, dive deep into technical topics, and wo
 Feel free to check out some of my repositories, projects, and experiments!
 
 
-You can reach me at: [emiliano.castro@mi.unc.edu.ar]
+You can reach me at: emiliano.castro@mi.unc.edu.ar
 
 
