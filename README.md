@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Emiliano
 
-<!--
-**EmiCastro01/EmiCastro01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student from Argentina, passionate about building low-level software that interacts closely with hardware. I enjoy coding in general, but I feel especially drawn to:
 
-Here are some ideas to get you started:
+- 🧠 Computer Science fundamentals  
+- 💻 Systems programming & embedded systems  
+- 🧩 Challenging software problems  
+- ⚙️ Driver development and hardware-specific software  
+- 🖥️ Operating systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always eager to learn something new, dive deep into technical topics, and work on projects that push me out of my comfort zone.
+Feel free to check out some of my repositories, projects, and experiments!
+
+
+You can reach me at: [emiliano.castro@mi.unc.edu.ar]
+
+
